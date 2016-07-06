@@ -1,0 +1,10 @@
+package com.ds.trie;
+
+import java.util.Map;
+
+public class TrieNode {
+	char c;
+	Map<Character, TrieNode> trie;
+	boolean isLeaf;
+
+}

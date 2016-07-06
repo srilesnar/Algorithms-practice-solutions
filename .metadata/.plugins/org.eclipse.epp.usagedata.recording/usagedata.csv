@@ -1,0 +1,61 @@
+what,kind,bundleId,bundleVersion,description,time
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1461817362264
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1461817362271
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1461817362271
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1461817362271
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1461868811534
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1461868811534
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1461868811537
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1462762726782
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1462762726791
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1462762726792
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1462762726792
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1462812797100
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1462812797100
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1462812797101
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1462915785238
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1462915785245
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1462915785245
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1462915785245
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1462916050548
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1462916050548
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1462916050550
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1462939967457
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1462939967465
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1462939967465
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1462939967465
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1463032135894
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1463032135901
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1463032135901
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1463032135903
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1463070802898
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1463070802898
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1463070802900
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1463180349464
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1463180349471
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1463180349472
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1463180349472
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1463503807927
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1463503807936
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1463503807939
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1464373723996
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1464373724003
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1464373724003
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1464373724003
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1464671877822
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1464671877822
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1464671877825
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1465099104583
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1465099104589
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1465099104589
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1465099104590
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1465231864069
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1465231864069
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1465231864096
+startIde,ide,Unknown,,"[IDE] PPDE-1.1.0",1465360750705
+started,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1465360750713
+started,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1465360750714
+started,bundle,com.ebay.uede.adoptiontracking,1.3.1.R201212121345,"com.ebay.uede.adoptiontracking",1465360750714
+stopped,bundle,com.ebay.dede.dsimport.plugin,1.0.4,"com.ebay.dede.dsimport.plugin",1465407059389
+stopped,bundle,com.ebay.tools.dede.ui,1.12.0.201111091744,"com.ebay.tools.dede.ui",1465407059389
+stopped,bundle,com.ebay.tools.dede,1.12.0.201111091744,"com.ebay.tools.dede",1465407059391

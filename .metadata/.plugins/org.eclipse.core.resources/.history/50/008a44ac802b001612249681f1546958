@@ -1,0 +1,67 @@
+package com.ds.trie;
+
+import java.util.HashMap;
+import java.util.Stack;
+
+public class Trie {
+	
+	private TrieNode root;
+	
+	//Root is always empty for a trie
+	public Trie() {
+		root = new TrieNode(' ');
+	}
+	
+	
+	public void insertWord(String word) {
+		TrieNode[] children = root.children;
+		TrieNode t;
+		
+		for (int  i = 0 ; i < word.length(); i++) {
+			char c = word.charAt(i);
+			int pos = c - 'a';
+			if (children[pos] == null) {
+				t = new TrieNode(c);
+				children[pos] = t;
+			} else {
+				t = children[pos];
+				children = t.children;
+			}
+			
+			if ( i == word.length() - 1) {
+				t.isLeaf = true;
+			}
+		}
+	}
+	
+	public boolean searchWord (String word) {
+		
+		if (root == null || root.children.length == 0) {
+			return false;
+		}
+		
+		TrieNode[] children = root.children;
+		boolean found = true;
+		for (int i=0; i < word.length(); i++) {
+			char c = word.charAt(i);
+			int pos = c - 'a';
+			TrieNode t = children[pos];
+			if (t == null) {
+				found = false;
+				break;
+			}
+			if (t.c != c) {
+				found = false;
+				break;
+			} else {
+				children = t.children;
+			}
+		}
+		return found;
+	}
+	
+	public void printTrie(TrieNode node) {
+	   TrieNode[] children = node.children;
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.ds.trie;
+
+import java.util.HashMap;
+
+public class Trie {
+	
+	private TrieNode root;
+	
+	//Root is always empty for a trie
+	public Trie() {
+		root = new TrieNode(' ', false);
+	}
+	
+	
+	public void insertWord(String word) {
+		HashMap<Character, TrieNode> children = root.children;
+	}
+
+}

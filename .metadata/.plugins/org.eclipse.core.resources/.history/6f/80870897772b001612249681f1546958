@@ -1,0 +1,17 @@
+package com.ds.trie;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class TrieNode {
+	char c;
+	Map<Character, TrieNode> children;
+	boolean isLeaf;
+	
+	public TrieNode(char c, boolean isLeaf) {
+		this.c = c;
+		this.isLeaf = isLeaf;
+		children = new HashMap<>();
+	}
+
+}

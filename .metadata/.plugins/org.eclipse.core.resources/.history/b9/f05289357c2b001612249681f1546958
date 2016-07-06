@@ -1,0 +1,35 @@
+package com.ds.trie;
+
+import java.util.HashMap;
+
+public class Trie {
+	
+	private TrieNode root;
+	
+	//Root is always empty for a trie
+	public Trie() {
+		root = new TrieNode(' ');
+	}
+	
+	
+	public void insertWord(String word) {
+		TrieNode[] children = root.children;
+		TrieNode t;
+		
+		for (int  i = 0 ; i < word.length(); i++) {
+			char c = word.charAt(i);
+			int pos = c - 'a';
+			if (children[pos] == null) {
+				t = new TrieNode(c);
+			} else {
+				t = children[pos];
+				children = t.children;
+			}
+			
+			if ( i == word.length() - 1) {
+				t.isLeaf = true;
+			}
+		}
+	}
+
+}
